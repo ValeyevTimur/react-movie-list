@@ -27,3 +27,7 @@ nav {
   justify-content: space-around;
 }
 
+.card {
+  width: 350px;
+  min-height: 100%;
+}
